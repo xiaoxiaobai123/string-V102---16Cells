@@ -1,0 +1,1 @@
+c:\Keil\ARM\ARMCC\bin\fromelf.exe --bin -o .\STM32F103_MD-OUTPUT\STM32F103_MD.bin .\STM32F103_MD-OUTPUT\STM32F103_MD.axf

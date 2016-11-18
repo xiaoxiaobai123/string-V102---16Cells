@@ -1,0 +1,1 @@
+c:\Keil\ARM\ARMCC\bin\fromelf.exe --bin -o .\STM32F103_HD-OUTPUT\STM32F103_HD.bin .\STM32F103_HD-OUTPUT\STM32F103_HD.axf

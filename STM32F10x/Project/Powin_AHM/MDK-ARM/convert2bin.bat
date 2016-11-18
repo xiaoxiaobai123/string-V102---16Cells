@@ -1,0 +1,1 @@
+c:\Keil\ARM\ARMCC\bin\fromelf.exe --bin -o .\StringController.bin .\String\STM32F105_RC.axf
